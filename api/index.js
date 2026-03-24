@@ -6,6 +6,7 @@ module.exports = function handler(req, res) {
     version: '1.0.0',
     endpoints: {
       usuarios: '/api/usuarios',
+      usuariosSupabase: '/api/usuarios-supabase',
       productos: '/api/productos',
     },
     timestamp: new Date().toISOString(),

@@ -1,6 +1,6 @@
 {
 "version": 2,
-"name": "mi-api-vercel",
+"name": "vercelpractica",
 "builds": [
 {
 "src": "api/**/*.js",

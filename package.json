@@ -1,13 +1,11 @@
 {
-  "name": "vercelpractica",
-  "version": "1.0.0",
-  "type": "module",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "vercel dev"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+"name": "vercelpractica",
+"version": "1.0.0",
+"type": "module",
+"scripts": {
+"dev": "vercel dev"
+},
+"engines": {
+"node": ">=18.0.0"
+}
 }
